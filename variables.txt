@@ -1,0 +1,9 @@
+food = "Pizza"
+is_delicious = true
+food = "Tacos"
+num2 = 5
+num7 = 2
+quotient = num7 / num2
+songs = ["Smells Like Teen Spirit", "Wannabe","Bitter Sweet Symphony"]
+songs.shift()
+food.length
