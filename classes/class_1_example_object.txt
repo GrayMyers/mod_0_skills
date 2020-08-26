@@ -1,0 +1,13 @@
+Instance: large_table_4
+
+Attributes:
+number_of_legs: 4
+table_in_use: false
+number_of_seats: 8
+reserved: false
+
+Methods:
+seat_table: table_in_use = true, reserved = false
+reserve: reserved = true
+bust_table: table_in_use = false
+is_table_safe: true
