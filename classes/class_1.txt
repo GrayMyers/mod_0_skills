@@ -1,0 +1,13 @@
+Class: Table
+
+Attributes:
+number_of_legs (integer)
+table_in_use (boolean)
+number_of_seats (integer)
+reserved (boolean)
+
+Methods:
+seat_table (sets table_in_use to true and reserved to false)
+reserve (sets reserved to true)
+bust_table (sets table_in_use to false)
+is_table_safe (checks if number_of_legs is less than 4 and returns the result as a boolean)
