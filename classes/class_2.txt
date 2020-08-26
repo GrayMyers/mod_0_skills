@@ -1,0 +1,13 @@
+Class: Employee
+
+Attributes:
+position (string)
+salary (float)
+is_currently_employed (boolean)
+hours (string)
+
+Methods:
+give_raise (increase the salary)
+promote (change the position)
+fire (set is_currently_employed to false and position to null)
+change_hours (change hours)
