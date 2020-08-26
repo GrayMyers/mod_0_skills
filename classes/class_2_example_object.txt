@@ -1,0 +1,13 @@
+Instance: Jerry
+
+Attributes:
+position: "Server"
+salary: 11.50
+is_currently_employed: true
+hours: "8:00 AM to 4:30 PM"
+
+Methods:
+give_raise: salary = 12.50
+promote: position = "Manager"
+fire: is_currently_employed = false
+change_hours: hours = "9:00 AM to 5:00 PM"
